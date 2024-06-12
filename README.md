@@ -33,7 +33,7 @@ Custom button icons are downloaded by the macro from online sources for a smalle
 
 *For more demos & PoCs like this, check out our [Webex Labs site](https://collabtoolbox.cisco.com/webex-labs).
 
-[![Vidcast Demo](images/vidcast.jpeg)](https://app.vidcast.io/share/025b5873-d020-4d51-a94f-8601ef3a9533)
+[![Vidcast Demo](images/vidcast.jpeg)](https://app.vidcast.io/share/028c47b9-810f-4d2b-9527-95a0ed75e8a3)
 
 ## License
 
