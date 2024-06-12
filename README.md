@@ -2,7 +2,7 @@
 
 This is an example macro which shows how to lock and unload the setting menu via a PIN prompt using a UI Extension Lock and Unload button in the device Control Panel menu.
 
-
+![Settings Lock Gif](/images/settings-lock.gif)
 ## Overview
 
 The macro saves UI Extension button to both the ``Control Panel`` of the device.
@@ -11,7 +11,7 @@ While the devices Settings are locked, the button will show an unlock icon with 
 
 Tapping on the ``Unlock Settings`` button opens a PIN prompt and if the correct PIN is entered, the Settings menu is set to Unlocked.
 
-The Device can be locked at any time by tapping the ``Lock Setting`` button but also features an configurable auto lock feature if the device enter Standby, Halfwake or completes a Room Cleanup
+The Device can be locked at any time by tapping the ``Lock Settings`` button but also features an configurable auto lock feature if the device enter Standby, Halfwake or completes a Room Cleanup
 
 Custom button icons are downloaded by the macro from online sources for a smaller macro file size.
 
